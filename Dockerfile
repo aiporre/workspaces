@@ -1,0 +1,4 @@
+FROM ubuntu
+
+CMD [bash]
+
